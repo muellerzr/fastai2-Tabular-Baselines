@@ -12,7 +12,7 @@ Along with these include a few popular techniques also used, and how `fastai` co
 | Multi-layer perceptron | 50% |
 | Deep Neural Decision Tree | 65.1% |
 | TabNet | 99.3% |
-| **fastai2** | **59.9%** |
+| **fastai2** | **99.44%** |
 
 [Sarcos Robotics Arm Inverse Dynamics](http://www.gaussianprocess.org/gpml/data/)
 
