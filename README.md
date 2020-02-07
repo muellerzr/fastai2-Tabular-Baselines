@@ -14,6 +14,8 @@ Along with these include a few popular techniques also used, and how `fastai` co
 | TabNet | 99.3% |
 | **fastai2** | **99.44%** |
 
+Credit to Fabio Barros for the idea of treating the numerical cards as both categorical and continuous.
+
 [Sarcos Robotics Arm Inverse Dynamics](http://www.gaussianprocess.org/gpml/data/)
 
 | Model | MSE | Number of Parameters |
