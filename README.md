@@ -16,7 +16,7 @@ Along with these include a few popular techniques also used, and how `fastai` co
 
 Credit to Fabio Barros for the idea of treating the numerical cards as both categorical and continuous.
 
-[Sarcos Robotics Arm Inverse Dynamics](http://www.gaussianprocess.org/gpml/data/)
+[Sarcos Robotics Arm Inverse Dynamics](http://www.gaussianprocess.org/gpml/data/) 
 
 | Model | MSE | Number of Parameters |
 |:-----------------------------:|:-----:|:--------------------:|
@@ -28,7 +28,7 @@ Credit to Fabio Barros for the idea of treating the numerical cards as both cate
 | TabNet-S | 1.25 | 6.3K |
 | TabNet-M | 0.28 | 590K |
 | TabNet-L | 0.14 | 1.75M |
-| **fastai2** | **0.038** | **530K** |
+| **fastai2** | <s>**0.038**</s> | <s>**530K**</s> | * Needs to be looked at again,
 
 [Higgs Boson](https://archive.ics.uci.edu/ml/datasets/HIGGS)
 
